@@ -220,8 +220,14 @@ def kcard(label, value, sub="", color=C["a2"], icon="📊"):
                                 "fontWeight":"600","letterSpacing":"0.5px"}),
         html.Div(sub,   style={"fontSize":"10px","color":C["sub"],"marginTop":"2px"}),
     ], style={
-        "background":C["card"],"borderRadius":"12px","border":f"1px solid {C['border']}",
-        "padding":"18px 20px","flex":"1","minWidth":"150px","textAlign":"center",
+        "background":C["card"],
+        "borderRadius":"12px",
+        "border":f"1px solid {C['border']}",
+        "borderBottom":f"4px solid {color}", # ✨ AQUI ESTÁ A MÁGICA: Borda inferior grossa usando a cor dinâmica do card
+        "padding":"18px 20px",
+        "flex":"1",
+        "minWidth":"150px",
+        "textAlign":"center",
         "boxShadow":"0 2px 8px rgba(0,0,0,0.4)",
     })
 
