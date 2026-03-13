@@ -1,0 +1,6 @@
+subcategory,tempo_medio_dias,tempo_min_dias,tempo_max_dias,desvio_padrao_dias
+Analytics,2.4,0.0,4.0,1.5023790657297034
+Dashboard,2.0,0.0,4.0,1.5118578920369088
+ETL,1.4,0.0,4.0,1.4040757000349275
+Infra,2.0,0.0,4.0,1.4867838833500564
+Pipeline,1.8461538461538463,0.0,4.0,1.2866175093572352

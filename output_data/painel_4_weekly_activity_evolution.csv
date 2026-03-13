@@ -1,0 +1,63 @@
+created_week,activity_type,horas_investidas
+1,Bug Fix,405
+1,Data Analysis,111
+1,Data Engineering,184
+1,Feature,180
+1,Research,129
+2,Bug Fix,216
+2,Data Analysis,644
+2,Data Engineering,208
+2,Feature,70
+2,Research,115
+3,Bug Fix,252
+3,Data Analysis,350
+3,Data Engineering,183
+3,Feature,251
+3,Research,194
+4,Bug Fix,195
+4,Data Analysis,135
+4,Data Engineering,291
+4,Feature,322
+4,Research,176
+5,Bug Fix,139
+5,Data Analysis,139
+5,Data Engineering,101
+5,Feature,116
+5,Research,353
+6,Bug Fix,290
+6,Data Analysis,395
+6,Data Engineering,378
+6,Research,364
+7,Bug Fix,169
+7,Data Analysis,204
+7,Data Engineering,128
+7,Feature,316
+7,Research,380
+8,Bug Fix,71
+8,Data Analysis,118
+8,Data Engineering,371
+8,Feature,28
+8,Research,125
+9,Bug Fix,155
+9,Data Analysis,149
+9,Data Engineering,232
+9,Feature,230
+9,Research,266
+10,Bug Fix,78
+10,Data Analysis,310
+10,Data Engineering,52
+10,Feature,217
+10,Research,267
+50,Data Analysis,10
+50,Feature,166
+50,Research,79
+51,Bug Fix,8
+51,Data Analysis,382
+51,Data Engineering,190
+51,Feature,73
+51,Research,173
+52,Bug Fix,86
+52,Data Analysis,22
+52,Data Engineering,154
+52,Feature,165
+52,Research,236

@@ -1,0 +1,99 @@
+card_id,card_title,owner,priority,block_reason,tempo_bloqueado_dias,status_sla,horas_restantes_sla
+2,Return leave police.,Fernanda,Low,Aguardando cliente,1.875,Atrasado,30
+7,Type within thing.,Carlos,High,Infraestrutura,0.25,Em risco,9
+8,Economy stay player movie.,Carlos,Low,Dependência externa,0.8333333333333334,Em risco,48
+11,Trial experience school.,João,Medium,Infraestrutura,1.0416666666666667,No prazo,-8
+12,Building prevent want team sign.,Marina,Critical,Aguardando cliente,1.7916666666666667,Atrasado,1
+15,Unit meet science.,Lucas,High,Bug em sistema,1.1666666666666667,Em risco,9
+16,Property amount interest relationship pick.,João,Low,Aguardando cliente,2.0,Em risco,3
+22,Reason experience.,Ana,High,Infraestrutura,2.0,Atrasado,18
+24,Choose computer minute.,Marina,High,Infraestrutura,0.08333333333333333,Atrasado,-13
+26,Oil Republican paper.,Marina,Critical,Prioridade alterada,1.0,Atrasado,-7
+27,Skill own bank.,Lucas,Low,Dependência externa,1.2916666666666667,Em risco,25
+28,Maintain station data.,Carlos,Low,Dependência externa,0.4166666666666667,Atrasado,-15
+33,Director book hotel.,João,Low,Dependência externa,1.9166666666666667,No prazo,39
+36,Hundred window while.,Lucas,Medium,Aguardando cliente,1.9583333333333333,Em risco,-20
+39,Because soon.,Ana,Low,Aguardando cliente,0.3333333333333333,Em risco,30
+40,Concern indeed few shake it.,João,Low,Prioridade alterada,1.25,No prazo,14
+43,Care ok common star.,Lucas,High,Prioridade alterada,1.875,Em risco,-11
+46,Long who life history.,Carlos,Medium,Prioridade alterada,0.7916666666666666,Atrasado,46
+47,Sort adult themselves.,Marina,High,Bug em sistema,0.3333333333333333,No prazo,46
+48,Fill cell.,Ana,Medium,Bug em sistema,0.25,No prazo,-1
+49,A involve relationship.,Carlos,Medium,Prioridade alterada,1.375,Em risco,29
+50,Standard firm performance.,Fernanda,Low,Aguardando cliente,1.875,Em risco,-11
+51,Amount behavior say policy.,Fernanda,High,Aguardando cliente,1.7916666666666667,No prazo,46
+54,Data line nothing administration edge.,Fernanda,Medium,Dependência externa,1.0,Atrasado,-13
+57,Yet drug.,Carlos,Medium,Infraestrutura,1.0,Em risco,30
+59,Plan serve father usually.,Carlos,High,Prioridade alterada,0.5416666666666666,Atrasado,41
+63,Hope least current listen.,Carlos,Medium,Infraestrutura,1.7916666666666667,No prazo,21
+64,Cell picture both sister.,Fernanda,Medium,Infraestrutura,2.0,Em risco,24
+65,Day rate medical.,Fernanda,Medium,Dependência externa,1.7916666666666667,Atrasado,32
+66,Place bank.,João,Low,Bug em sistema,0.16666666666666666,Atrasado,10
+68,Paper development when already gas.,Marina,Low,Dependência externa,1.2916666666666667,No prazo,1
+69,Already our.,Lucas,High,Dependência externa,0.7083333333333334,Em risco,-13
+71,Suggest between north.,João,Low,Aguardando cliente,0.3333333333333333,Em risco,21
+72,Letter community son.,Lucas,Critical,Dependência externa,1.0833333333333333,Em risco,1
+73,House police prevent operation shake.,Carlos,Critical,Infraestrutura,1.0416666666666667,No prazo,3
+75,Table here life.,Fernanda,High,Dependência externa,0.08333333333333333,Em risco,-16
+76,Nearly color thousand.,Carlos,Critical,Infraestrutura,1.875,Atrasado,39
+77,Resource agency.,Carlos,Critical,Prioridade alterada,0.20833333333333334,No prazo,2
+78,Action understand former bring.,João,Low,Aguardando cliente,1.7083333333333333,Em risco,9
+80,Scientist could.,Marina,High,Dependência externa,1.8333333333333333,Em risco,-14
+82,Page charge use medical nice.,Carlos,Low,Infraestrutura,0.875,Em risco,31
+85,Whole office almost ground.,Marina,Low,Aguardando cliente,0.6666666666666666,No prazo,28
+86,Official term it firm create.,Fernanda,Critical,Dependência externa,1.3333333333333333,No prazo,6
+87,Policy and machine church.,João,Medium,Dependência externa,0.0,Em risco,6
+88,Sound style arm.,Carlos,Critical,Prioridade alterada,1.5,No prazo,-7
+90,Add thank.,Marina,Low,Dependência externa,0.625,Atrasado,16
+92,Partner tell friend pass design.,Ana,High,Dependência externa,0.25,Em risco,5
+95,Seek language mean.,João,Low,Bug em sistema,1.625,No prazo,43
+96,Challenge or nothing idea.,Carlos,Low,Bug em sistema,0.25,No prazo,26
+100,Ok school.,Ana,High,Bug em sistema,0.5833333333333334,No prazo,-12
+101,Back race work.,Ana,Low,Bug em sistema,1.6666666666666667,Atrasado,26
+102,Girl ask couple various.,Carlos,High,Dependência externa,0.8333333333333334,Em risco,26
+104,Recognize hot at religious and.,Marina,Medium,Bug em sistema,1.4583333333333333,Em risco,-17
+107,Movement treat.,Fernanda,Critical,Bug em sistema,1.8333333333333333,Atrasado,36
+113,Budget occur among.,Marina,Medium,Aguardando cliente,1.5,No prazo,-20
+114,Program south camera activity bank.,Carlos,Critical,Dependência externa,1.4583333333333333,Em risco,-10
+115,Peace when ahead before subject.,Lucas,Medium,Prioridade alterada,1.2083333333333333,No prazo,-11
+118,Dark home try four hundred.,Ana,Low,Aguardando cliente,1.8333333333333333,No prazo,-1
+119,Adult picture population knowledge.,João,Low,Prioridade alterada,0.6666666666666666,No prazo,4
+121,Sense hospital play against.,Ana,Critical,Bug em sistema,0.8333333333333334,Atrasado,39
+125,Hotel notice question size.,Ana,Low,Infraestrutura,0.6666666666666666,No prazo,43
+126,Glass young well laugh.,Marina,Critical,Bug em sistema,0.875,No prazo,15
+127,Generation concern.,Carlos,Critical,Prioridade alterada,0.5,Em risco,46
+128,Feel main fact.,Carlos,High,Prioridade alterada,1.0,Em risco,-4
+130,Painting instead leg.,Ana,Critical,Aguardando cliente,1.25,Atrasado,11
+131,Floor rise expert difference.,Lucas,Medium,Dependência externa,0.8333333333333334,No prazo,34
+133,Affect determine into hard.,Fernanda,Low,Aguardando cliente,0.7916666666666666,No prazo,40
+134,Something century security.,Ana,Critical,Dependência externa,1.3333333333333333,No prazo,8
+138,Leg trip store.,Ana,Medium,Prioridade alterada,1.0,Em risco,17
+139,Thus loss.,Ana,High,Bug em sistema,2.0,Em risco,-10
+140,Public poor soldier claim.,Lucas,High,Infraestrutura,0.9583333333333334,No prazo,21
+141,Final last miss sign.,Ana,Low,Dependência externa,1.25,Atrasado,-10
+144,Doctor itself.,Fernanda,Critical,Aguardando cliente,1.25,Atrasado,12
+145,Serious successful still early among.,Fernanda,Low,Infraestrutura,0.8333333333333334,No prazo,29
+147,Sister radio lawyer according business.,Lucas,Medium,Aguardando cliente,0.875,Atrasado,-3
+148,Side pressure.,Carlos,Low,Prioridade alterada,0.4583333333333333,Em risco,-19
+149,True quickly word believe.,João,Low,Dependência externa,1.1666666666666667,Em risco,22
+150,Because knowledge organization finally.,Fernanda,Medium,Aguardando cliente,0.7083333333333334,No prazo,5
+153,Reach because ten party yet.,Fernanda,High,Prioridade alterada,0.8333333333333334,No prazo,-18
+154,Certainly herself loss risk be.,Lucas,Medium,Bug em sistema,1.25,Atrasado,-9
+156,Maintain assume seem week.,Fernanda,Medium,Infraestrutura,1.9166666666666667,No prazo,45
+159,Fine within magazine dinner station.,Fernanda,Critical,Bug em sistema,0.7916666666666666,Em risco,-20
+163,National possible clear possible.,Carlos,Low,Prioridade alterada,1.2916666666666667,Atrasado,40
+166,Tree director audience.,Carlos,High,Prioridade alterada,0.375,No prazo,21
+168,Watch arm.,Ana,Low,Bug em sistema,2.0,Atrasado,33
+170,Money scene just.,Lucas,Critical,Bug em sistema,1.1666666666666667,Atrasado,22
+171,Simple to.,Fernanda,High,Prioridade alterada,1.5833333333333333,Em risco,26
+173,Agent day until night.,Marina,Low,Dependência externa,1.7083333333333333,Atrasado,6
+176,Check model mission.,Lucas,High,Bug em sistema,1.7916666666666667,No prazo,44
+181,Car since inside father.,Ana,Medium,Infraestrutura,0.5833333333333334,Atrasado,10
+182,Pm difficult bed human they.,Carlos,Medium,Prioridade alterada,1.625,No prazo,29
+183,Organization or small.,Fernanda,Critical,Prioridade alterada,0.9166666666666666,No prazo,8
+185,Positive baby build he will.,Carlos,High,Dependência externa,1.9583333333333333,Atrasado,42
+188,Person community heavy serve.,Carlos,Medium,Prioridade alterada,0.16666666666666666,Em risco,31
+190,Organization less government put.,Ana,Low,Dependência externa,1.25,Atrasado,50
+193,Hit term water movement southern.,Carlos,High,Prioridade alterada,0.16666666666666666,No prazo,15
+194,Idea local push help.,Ana,Low,Prioridade alterada,1.2916666666666667,Atrasado,48
+200,Even can.,Ana,Critical,Prioridade alterada,0.4583333333333333,Em risco,34
